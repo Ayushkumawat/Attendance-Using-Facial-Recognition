@@ -1,5 +1,5 @@
 # Attendance-Using-Facial-Recognition
-Attendance by Facial-Recognition using Artificial Intelligence - Machine Learning 
+This is an Artificial Intelligence - Machine Learning Project "Attendance using Facial-Recognition"
 
 # Benifits - 
 As we all know that many Machine-Learnig based project reqiures altest 2-3 similar kind of images to train & ofcourse a lot of time to train all the things BUT here it requires just one good* image of the person and thats all needed for recognition. 
