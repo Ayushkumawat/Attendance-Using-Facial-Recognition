@@ -2,7 +2,7 @@
 
 Attendance using Facial-Recognition
 
-# Benifits - 
+# Benefits - 
 As we all know that many Machine-Learnig based project reqiures altest 2-3 similar kind of images to train & ofcourse a lot of time to train all the things BUT here it requires just one good* image of the person and thats all needed for recognition. 
 
 This itself updates attendance of the person recognized.
